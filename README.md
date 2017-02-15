@@ -1,2 +1,6 @@
-# java-oo
-Repositório para exercicios de Orientação Objeto e fundamentos do Java.
+# Java Orientação a Objetos
+
+O objetivo desse repositório é expor exemplos de aplicações de herança, 
+reescrita, polimorfismo e exceptions.
+
+Expondo aqui meu aprendizado e conhecimento, qualquer feedback é bem vindo.
